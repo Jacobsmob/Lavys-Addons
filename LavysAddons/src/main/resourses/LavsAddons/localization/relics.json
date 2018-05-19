@@ -1,0 +1,16 @@
+{
+	"Antivirus": {
+		"NAME": "Antivirus",
+		"FLAVOR": "Lavender",
+		"DESCRIPTIONS": [
+			"Start combat with +2 #yfocus."
+		]
+	},
+	"testRelic": {
+		"NAME":"testRelic",
+		"FLAVOR": "Lavender",
+		"DESCRIPTIONS":[
+			"Test."
+		]
+	}
+}
